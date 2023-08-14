@@ -131,10 +131,6 @@
           height="40"
         />
       </a>
-    </p>
-  </div>
-  <div style="display: flex; justify-content: space-around; margin: 5px">
-    <p align="center">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -143,16 +139,6 @@
           height="40"
         />
       </a>
-      <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
-          alt="canvasjs"
-          width="40"
-          height="40"
-        />
-      </a>
-    </p>
-    <p align="center">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -169,6 +155,20 @@
           height="40"
         />
       </a>
+    </p>
+  </div>
+  <div style="display: flex; justify-content: space-around; margin: 5px">
+    <p align="center">
+      <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"
+          alt="canvasjs"
+          width="40"
+          height="40"
+        />
+      </a>
+    </p>
+    <p align="center">
       <a
         href="https://flask.palletsprojects.com/"
         target="_blank"
@@ -193,38 +193,4 @@
   </div>
 </div>
 
-<div align="center" style="margin: 10px;">
-  <h2>Find me on</h2>
-  <p>
-    <a href="https://www.youtube.com/@andresprieto1439" target="blank">
-      <img
-        src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube"
-        alt="YouTube: @andresprieto1439"
-      />
-    </a>
-    <a href="https://www.linkedin.com/in/andres-m-prieto/?locale=en_US">
-      <img
-        src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin"
-        alt="Linkedin: andres-m-prieto"
-      />
-    </a>
-    <a href="https://discord.gg/TheDreamerKing#0141" target="blank">
-      <img
-        src="https://img.shields.io/badge/-discord-darkgray?style=for-the-badge&logo=discord"
-        alt="Discord: TheDreamerKing#0141"
-      />
-    </a>
-    <a href="https://stackoverflow.com/users/15334340" target="blank">
-      <img
-        src="https://img.shields.io/badge/-stackoverflow-white?style=for-the-badge&logo=stackoverflow"
-        alt="StackOverflow: 15334340"
-      />
-    </a>
-    <a href="https://andresprieto-25116.medium.com/">
-      <img
-        src="https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium"
-        alt="Medium: @andresprieto-25116"
-      />
-    </a>
-  </p>
-</div>
+
