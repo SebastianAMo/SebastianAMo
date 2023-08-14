@@ -167,9 +167,7 @@
           height="40"
         />
       </a>
-    </p>
-    <p align="center">
-      <a
+          <a
         href="https://flask.palletsprojects.com/"
         target="_blank"
         rel="noreferrer"
@@ -189,6 +187,8 @@
           height="40"
         />
       </a>
+    </p>
+    <p align="center">
     </p>
   </div>
 </div>
